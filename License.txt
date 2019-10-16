@@ -1,0 +1,39 @@
+Licensing Information
+
+1. Tileset -
+Taiga Tileset 
+https://vnitti.itch.io/taiga-asset-pack
+
+License (Creative Commons Zero, CC0)
+https://creativecommons.org/publicdomain/zero/1.0/
+
+2. Sword hero
+RVROS
+https://rvros.itch.io/animated-pixel-hero
+
+License (Creative Commons Zero, CC0)
+https://creativecommons.org/publicdomain/zero/1.0/
+
+3. Archer hero
+RVROS
+https://rvros.itch.io/animated-pixel-hero
+
+License (Creative Commons Zero, CC0)
+https://creativecommons.org/publicdomain/zero/1.0/
+
+4. Escadre 
+Alexandr Zhelanov
+https://opengameart.org/content/colonization
+
+License (Creative Commons Zero, CC0)
+https://creativecommons.org/publicdomain/zero/1.0/
+
+5. Battle
+Theodore Kerr
+https://opengameart.org/
+
+License (Creative Commons Zero, CC0)
+https://creativecommons.org/publicdomain/zero/1.0/
+
+
+
