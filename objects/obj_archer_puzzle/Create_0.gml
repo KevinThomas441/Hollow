@@ -1,0 +1,1 @@
+block_health = 10;

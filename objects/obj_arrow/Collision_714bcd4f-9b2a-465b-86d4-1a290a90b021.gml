@@ -1,0 +1,1 @@
+other.block_health -= global.archer_attack;

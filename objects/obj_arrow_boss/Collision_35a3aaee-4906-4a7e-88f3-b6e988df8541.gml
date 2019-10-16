@@ -1,0 +1,1 @@
+global.saber_health -= global.archer_attack;
