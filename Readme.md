@@ -1,8 +1,8 @@
-Hollow
-Producer: Pranav Kamble
-Designer: Alex Baio
-Artist: Sai Teja Sarangu
-Programmer: Kevin Thomas
+# Hollow
+Producer: Pranav Kamble<br>
+Designer: Alex Baio<br>
+Artist: Sai Teja Sarangu<br>
+Programmer: Kevin Thomas<br>
 
 Controls:
 - Left: A
