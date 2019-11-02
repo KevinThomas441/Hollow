@@ -4,7 +4,7 @@ Designer: Alex Baio<br>
 Artist: Sai Teja Sarangu<br>
 Programmer: Kevin Thomas<br>
 
-Controls:
+### Controls:
 - Left: A
 - Right: D
 - Climb: W
@@ -21,7 +21,7 @@ While controlling one character, the other character acts on their own, unless e
 (Survival Bonus) For every 90 seconds of survival, health is increased by 1.
 
 
-Cheat Codes:
+### Cheat Codes:
 To use cheat codes, hold the control key and the corresponding keys
 - 1: To toggle fullscreen
 - 2: Go to the first level
