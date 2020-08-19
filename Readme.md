@@ -13,6 +13,13 @@ Designer: Alex Baio<br>
 Artist: Sai Teja Sarangu<br>
 Programmer: Kevin Thomas<br>
 
+Screenshots:
+![Screenshot](https://github.com/KevinThomas441/Hollow/blob/master/images/Home%20Screen.png)
+![Screenshot](https://github.com/KevinThomas441/Hollow/blob/master/images/Level%201.png)
+![Screenshot](https://github.com/KevinThomas441/Hollow/blob/master/images/Level%202.png)
+![Screenshot](https://github.com/KevinThomas441/Hollow/blob/master/images/Boss%20Level.png)
+![Screenshot](https://github.com/KevinThomas441/Hollow/blob/master/images/Exit%20Screen.png)
+
 ### Controls:
 - Left: A
 - Right: D
