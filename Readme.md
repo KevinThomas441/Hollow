@@ -1,9 +1,9 @@
 # Hollow
-●	Follows the story of two adventurers in search of treasure and fame. <br>
-●	Play as both characters with differing abilities, switching between them at will. <br>
-●	One character focuses on melee with a sword and is stronger but slower. <br>
-●	The other uses a bow for ranged attacks and is faster but not as strong. <br>
-●	Focus on action and exploration, with puzzles that require the use of both characters’ abilities to succeed. <br>
+- Follows the story of two adventurers in search of treasure and fame. <br>
+- Play as both characters with differing abilities, switching between them at will. <br>
+- One character focuses on melee with a sword and is stronger but slower. <br>
+- The other uses a bow for ranged attacks and is faster but not as strong. <br>
+- Focus on action and exploration, with puzzles that require the use of both characters’ abilities to succeed. <br>
 
 
 Producer: Pranav Kamble<br>
